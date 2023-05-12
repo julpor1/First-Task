@@ -23,7 +23,7 @@ h2{
 
 section{
     width: 250px;
-    height: 250px;
+    height: 260px;
     border: 20px solid rgb(255, 255, 255);
     background-color: rgba(128, 128, 128, 0.475);
 }
@@ -52,6 +52,11 @@ div .s3 h2{
 .div{
     width: 100%;
     padding: 20px;
+}
+
+.div2{
+    border: 1px solid black;
+    height: 100%;
 }
 
 @media (min-width:992px){
